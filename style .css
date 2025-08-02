@@ -1,0 +1,48 @@
+.icons{
+    color: rgb(29, 155, 240);
+    text-align: initial;
+
+}
+.posts{
+
+    text-align: center;
+    color: rgb(29, 155, 240);
+    height: 30px;
+    
+
+}
+
+.sub-btn{
+
+    background:rgb(29, 155, 240);
+    margin: 30px;
+    padding: 10px;
+    border-radius: 20%;
+
+}
+.postss{
+    display:flex;
+
+}
+.img{
+    
+    width: 100px;
+    margin: 10px;
+    
+}
+.span1{
+    cursor: pointer;
+    display: inline;
+    padding: 10px;
+
+    
+}
+.span2{
+    cursor: pointer;
+    color: gray;
+
+}
+.postimg{
+     
+    
+}
